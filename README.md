@@ -5,5 +5,5 @@ If you are into optimization, you might find [pytorch image descent](https://git
 My first every project was a music beat swapping and automatic mixing/remixing tool with AI-based beat detection which you can try in your browser https://huggingface.co/spaces/dpe1/beat_manipulator. 
 
 - discord https://discord.com/users/356441827097968640
-- tg https://t.me/stunlocked
+- telegram https://t.me/stunlocked
 - email nkshv2@gmail.com
