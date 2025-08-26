@@ -1,0 +1,1 @@
+https://github.com/stephencwelch/manim_videos/blob/master/_2025/backprop_3/notebooks/Wide%20Training%20Example.ipynb
