@@ -13,7 +13,7 @@ yes I managed to snatch six-seven on gitlab
 what I'm working on on my job:
 - various ML stuff
 
-what I'm working on in my free time: 
+what I'm working on in my free time:
 - training tiny slm, I mean really tiny, under 10m params, to be able to think, tool call, etc
 - algorithms for tabular ML
 - numerical optimizers
@@ -28,6 +28,8 @@ are my repos vibe coded
 lets see how long I can make this page.
 
 Here are first 10 numbers in alphabetic order: 8, 5, 4, 9, 1, 7, 6, 3, 2, 0
+
+so apparently I can make it very long...
 
 Here are some random unicode symbols!
 - 괮
@@ -4271,7 +4273,7 @@ Here are some random unicode symbols!
 - ᬂ
 - 샧
 - ⱝ
--  
+- 
 - ☍
 - 蔗
 - 쀺
@@ -18494,7 +18496,7 @@ Here are some random unicode symbols!
 - ∞
 - ⁗
 - 孍
-- 
+-
 - ꍪ
 - 豝
 - 苢
@@ -23237,7 +23239,7 @@ Here are some random unicode symbols!
 - 䱈
 - 뻝
 - Ɫ
--  
+- 
 - ቋ
 - 杠
 - Ė
@@ -33267,7 +33269,7 @@ Here are some random unicode symbols!
 - 뵎
 - 돂
 - 뷗
--  
+- 
 - Თ
 - 鰝
 - Ѓ
@@ -35906,7 +35908,7 @@ Here are some random unicode symbols!
 - 媛
 - Ꮫ
 - 鍻
--  
+-
 - 賝
 - ٗ
 - ꭠ
@@ -39529,7 +39531,7 @@ Here are some random unicode symbols!
 - ꟞
 - 붴
 - ꗔ
-- 
+-
 
 - ॹ
 - 櫺
@@ -39914,7 +39916,7 @@ Here are some random unicode symbols!
 - ᷎
 - 䩡
 - ⸈
-- 
+-
 - 侥
 - ѝ
 - ِ
@@ -44293,7 +44295,7 @@ Here are some random unicode symbols!
 - 嵅
 - 杠
 - ⵉ
-- 	
+-
 - ꊳ
 - 꼍
 - 浃
@@ -53758,7 +53760,7 @@ Here are some random unicode symbols!
 - 䈜
 - ㋣
 - 蝊
-- 
+-
 - 漷
 - ꣑
 - 㸈
@@ -66671,7 +66673,7 @@ Here are some random unicode symbols!
 - 䐊
 - 䔯
 - 駶
--  
+- 
 - ⠚
 - 捇
 - ᆴ
@@ -70850,7 +70852,7 @@ Here are some random unicode symbols!
 - 㸭
 - ؞
 - 뚈
--  
+- 
 - 瑰
 - ഩ
 - ꭃ
@@ -74389,7 +74391,7 @@ Here are some random unicode symbols!
 - 毌
 - 憚
 - 諩
--  
+-
 - 㨴
 - 翫
 - ಂ
@@ -75022,7 +75024,7 @@ Here are some random unicode symbols!
 - 㪂
 - ⹦
 - 岩
-- 
+-
 - ⨒
 - ꜚ
 - 煔
@@ -75430,7 +75432,7 @@ Here are some random unicode symbols!
 - 碎
 - 㓿
 - ⪟
--  
+- 
 - 恆
 - 劲
 - 吨
@@ -106758,7 +106760,7 @@ Here are some random unicode symbols!
 - 鴐
 - 銉
 - 栩
-- 
+-
 
 - 癳
 - 㚔
@@ -116515,7 +116517,7 @@ Here are some random unicode symbols!
 - 鈄
 - 롪
 - 꽞
-- 	
+-
 - 갯
 - ꨥ
 - 頠
@@ -117743,7 +117745,7 @@ Here are some random unicode symbols!
 - 꼳
 - ย
 - ⁰
--  
+-
 - ᾐ
 - 蹟
 - 筟
@@ -126124,7 +126126,7 @@ Here are some random unicode symbols!
 - 仔
 - ꓕ
 - ꅠ
--  
+-
 - 됂
 - 銔
 - ⦫
@@ -175883,7 +175885,7 @@ Here are some random unicode symbols!
 - ѱ
 - 猓
 - Ⓛ
-- 	
+-
 - ꀆ
 - 脯
 - ᬙ
@@ -192931,7 +192933,7 @@ Here are some random unicode symbols!
 - 閻
 - ꩪ
 - ␇
-- 	
+-
 - 㣲
 - 㠪
 - ⠢
@@ -198579,7 +198581,7 @@ Here are some random unicode symbols!
 - 鯙
 - 랱
 - ⻜
-- 
+-
 - 儅
 - 骢
 - 릔
@@ -201379,7 +201381,7 @@ Here are some random unicode symbols!
 - è
 - ꮄ
 - 佰
-- 
+-
 - 飞
 - 阍
 - 傜
@@ -217502,7 +217504,7 @@ Here are some random unicode symbols!
 - 鹊
 - ྲ
 - 뵥
--  
+- 
 - ክ
 - ⷋ
 - 梧
@@ -222871,7 +222873,7 @@ Here are some random unicode symbols!
 - 固
 - 舒
 - 槕
-- 	
+-
 - ͘
 - 鑷
 - ⛐
@@ -224654,7 +224656,7 @@ Here are some random unicode symbols!
 - ⍕
 - ཅ
 - 뀨
--  
+- 
 - 쇣
 - 鿗
 - 珝
@@ -236209,7 +236211,7 @@ Here are some random unicode symbols!
 - 輴
 - ≑
 - 苛
--  
+- 
 - 륂
 - 蹫
 - ꉜ
@@ -249587,7 +249589,7 @@ Here are some random unicode symbols!
 - 셀
 - Ⓜ
 - ꀲ
--  
+- 
 - ၝ
 - ݴ
 - 緌
@@ -255453,7 +255455,7 @@ Here are some random unicode symbols!
 - 酻
 - ꯝ
 - 态
-- 
+-
 
 - ꋋ
 - 䅠
@@ -263775,7 +263777,7 @@ Here are some random unicode symbols!
 - 栿
 - の
 - 蜱
-- 	
+-
 - 㹁
 - ꍣ
 - ꁝ
@@ -268069,7 +268071,7 @@ Here are some random unicode symbols!
 - 鑳
 - 狙
 - 揗
--  
+-
 - ȟ
 - 㯷
 - 灅
@@ -278607,7 +278609,7 @@ Here are some random unicode symbols!
 - 쁦
 - 难
 - 닆
-- 
+-
 
 - 箁
 - 橣
@@ -299790,7 +299792,7 @@ Here are some random unicode symbols!
 - ᴂ
 - 髱
 - ◭
-- 
+-
 
 - 굯
 - ྊ
@@ -302781,7 +302783,7 @@ Here are some random unicode symbols!
 - 싖
 - 饈
 - 䝧
-- 	
+-
 - 㭊
 - 稸
 - 践
@@ -305192,7 +305194,7 @@ Here are some random unicode symbols!
 - 寑
 - 걵
 - 啰
--  
+- 
 - 늀
 - 怃
 - 괪
@@ -315323,7 +315325,7 @@ Here are some random unicode symbols!
 - 砚
 - 啵
 - 䓺
--  
+- 
 - 닜
 - ቧ
 - 脓
@@ -341756,7 +341758,7 @@ Here are some random unicode symbols!
 - 猌
 - 뺲
 - ᑵ
--  
+- 
 - 㘐
 - ꈒ
 - 䂮
@@ -370810,7 +370812,7 @@ Here are some random unicode symbols!
 - 瑅
 - 赘
 - 纡
-- 
+-
 
 - 礨
 - 湜
@@ -375944,7 +375946,7 @@ Here are some random unicode symbols!
 - ꖕ
 - 䉎
 - 㖹
-- 
+-
 
 - 裯
 - 㰰
@@ -395681,7 +395683,7 @@ Here are some random unicode symbols!
 - 塎
 - ๻
 - Ɲ
--  
+- 
 - 껞
 - 㹼
 - ୧
@@ -400708,7 +400710,7 @@ Here are some random unicode symbols!
 - 䈍
 - 絳
 - 灺
--  
+- 
 - ḓ
 - 楏
 - 屠
@@ -401568,7 +401570,7 @@ Here are some random unicode symbols!
 - ⋖
 - ⩜
 - ᅡ
--  
+-
 - 룀
 - 澋
 - 虆
@@ -405605,7 +405607,7 @@ Here are some random unicode symbols!
 - Ѻ
 - 뫓
 - 禦
--  
+- 
 - 㖝
 - 䮂
 - ꕷ
@@ -411090,7 +411092,7 @@ Here are some random unicode symbols!
 - 蘼
 - 䭘
 - ܑ
-- 
+-
 
 - 鷍
 - 䖽
@@ -423941,7 +423943,7 @@ Here are some random unicode symbols!
 - 㗠
 - ࿑
 - 0
--  
+- 
 - ු
 - ꟈ
 - 聵
@@ -428408,7 +428410,7 @@ Here are some random unicode symbols!
 - 懘
 - ᜿
 - 뗪
-- 
+-
 - 扎
 - ¯
 - ⤓
@@ -439136,7 +439138,7 @@ Here are some random unicode symbols!
 - 汬
 - 旾
 - 㼺
-- 
+-
 - 珰
 - 喦
 - 醔
@@ -439199,7 +439201,7 @@ Here are some random unicode symbols!
 - 鰽
 - 榆
 - 藺
-- 	
+-
 - 輛
 - ꑲ
 - ㈃
@@ -440802,7 +440804,7 @@ Here are some random unicode symbols!
 - ᣺
 - 犩
 - ङ
-- 	
+-
 - 琂
 - 鼜
 - ⅙
@@ -441019,7 +441021,7 @@ Here are some random unicode symbols!
 - း
 - ䷈
 - 㝦
-- 	
+-
 - 심
 - ䷸
 - 말
@@ -445914,7 +445916,7 @@ Here are some random unicode symbols!
 - 㨄
 - 겿
 - ỗ
--  
+- 
 - 弞
 - ┦
 - ❷
@@ -467369,7 +467371,7 @@ Here are some random unicode symbols!
 - 钼
 - ꕾ
 - 㔐
-- 	
+-
 - 贗
 - 垶
 - 傠
@@ -478863,7 +478865,7 @@ Here are some random unicode symbols!
 - 秖
 - ⌾
 - 㳑
-- 	
+-
 - 殐
 - ⒎
 - 褰
