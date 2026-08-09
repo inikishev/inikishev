@@ -24,7 +24,3 @@ are my repos vibe coded
 - for now, if I add any ai code, its added to a special ai slop containment chamber, and everything outside remains hand-written.
 - there are some pieces of plotting/visualization code that managed to breached the containment chamber, mostly in visualbench.
 - more breaches are expected in the future... I will update this section when they happen
-
-Here are first 10 numbers in alphabetic order: 8, 5, 4, 9, 1, 7, 6, 10, 3, 2
-
-Here are some random unicode symbols! 괮ǋ㻟ꑯꙘ硢検䆮嘹岜섬职ꞁ㍜銖⭱
